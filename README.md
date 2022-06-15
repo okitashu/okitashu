@@ -6,5 +6,3 @@
   </samp>
 </p>
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/949836826405924865)](https://discord.com/users/949836826405924865)
